@@ -1,0 +1,10 @@
+#a {
+    border: solid 1px black;
+    display: inline-block;
+    width: 15%;
+}
+#b {
+    border: solid 1px black;
+    display: block;
+    width: 15%;
+}

@@ -1,0 +1,31 @@
+body{
+    display: block;
+}
+.main1{
+    border: dotted 3px black;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+.main2{
+    border: dotted 3px black;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 50%;
+}
+.main3{
+    border: dotted 3px black;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.main4{
+    border: dotted 3px black;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 50%;
+}
+.main22{
+    border: solid  blue;
+}
